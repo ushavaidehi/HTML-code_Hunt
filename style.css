@@ -1,0 +1,106 @@
+html{
+    height: 100%;
+}
+body{
+
+    background-color: #202020;
+    background-image: url(images/66-666819_website-design-background-creative-background-image-for-website.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+
+}
+header{
+    height: 110px;
+    text-align: center;
+    
+}
+.logo{
+    height: 60px;
+    padding-top: 28px;
+    text-align: center;
+}
+.company{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    text-align: center;
+    margin-top: -4px;
+    color: rgb(235, 233, 233);
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.308);
+    text-decoration: none;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 12ßpx;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+main{
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+
+}
+
+h2{
+    font-size: 64px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+p{
+    font-size: 14px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 50px;
+}
+.knowmore{
+    color: #3F3F3F;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    padding: 5px;
+    border: 2px #3F3F3F;
+    border-radius: 5px;
+    background-color: white;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
+   
+}
+
+.maps{
+    padding-bottom: 100px;
+    text-align: center;
+}
+footer{
+    background-color: rgb(58, 58, 58);
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+    color: rgb(184, 184, 184);
+}
+
